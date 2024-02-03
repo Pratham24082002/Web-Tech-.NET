@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Basic_OOPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{495EAFFD-C6EF-49BA-90A1-842BFD700326}|Basic_oops\\Basic_oops.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\basic_oops\\basic_oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495EAFFD-C6EF-49BA-90A1-842BFD700326}|Basic_oops\\Basic_oops.csproj|solutionrelative:basic_oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495EAFFD-C6EF-49BA-90A1-842BFD700326}|Basic_oops\\Basic_oops.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\basic_oops\\basic_oops\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495EAFFD-C6EF-49BA-90A1-842BFD700326}|Basic_oops\\Basic_oops.csproj|solutionrelative:basic_oops\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Basic_oops\\Basic_oops\\Student.cs",
+              "RelativeDocumentMoniker": "Basic_oops\\Student.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Basic_oops\\Basic_oops\\Student.cs",
+              "RelativeToolTip": "Basic_oops\\Student.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T05:28:09.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Basic_OOPS\\Basic_OOPS\\Program.cs",
+              "RelativeDocumentMoniker": "Basic_OOPS\\Program.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Basic_OOPS\\Basic_OOPS\\Program.cs",
+              "RelativeToolTip": "Basic_OOPS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T05:23:12.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
