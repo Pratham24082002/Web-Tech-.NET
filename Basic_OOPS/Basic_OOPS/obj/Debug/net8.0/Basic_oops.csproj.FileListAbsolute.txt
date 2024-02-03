@@ -1,0 +1,15 @@
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\bin\Debug\net8.0\Basic_oops.exe
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\bin\Debug\net8.0\Basic_oops.deps.json
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\bin\Debug\net8.0\Basic_oops.runtimeconfig.json
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\bin\Debug\net8.0\Basic_oops.dll
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\bin\Debug\net8.0\Basic_oops.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\obj\Debug\net8.0\Basic_oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\obj\Debug\net8.0\Basic_oops.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\obj\Debug\net8.0\Basic_oops.AssemblyInfo.cs
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\obj\Debug\net8.0\Basic_oops.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\obj\Debug\net8.0\Basic_oops.sourcelink.json
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\obj\Debug\net8.0\Basic_oops.dll
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\obj\Debug\net8.0\refint\Basic_oops.dll
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\obj\Debug\net8.0\Basic_oops.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\obj\Debug\net8.0\Basic_oops.genruntimeconfig.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Basic_oops\Basic_oops\obj\Debug\net8.0\ref\Basic_oops.dll
