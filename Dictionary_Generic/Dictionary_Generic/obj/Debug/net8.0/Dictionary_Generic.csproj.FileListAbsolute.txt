@@ -1,0 +1,14 @@
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\bin\Debug\net8.0\Dictionary_Generic.exe
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\bin\Debug\net8.0\Dictionary_Generic.deps.json
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\bin\Debug\net8.0\Dictionary_Generic.runtimeconfig.json
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\bin\Debug\net8.0\Dictionary_Generic.dll
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\bin\Debug\net8.0\Dictionary_Generic.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\Dictionary_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\Dictionary_Generic.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\Dictionary_Generic.AssemblyInfo.cs
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\Dictionary_Generic.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\Dictionary_Generic.dll
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\refint\Dictionary_Generic.dll
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\Dictionary_Generic.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\Dictionary_Generic.genruntimeconfig.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\ref\Dictionary_Generic.dll

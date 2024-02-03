@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Dictionary_Generic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{024D78E6-D235-4D2A-89D1-4B6D22BF809E}|Dictionary_Generic\\Dictionary_Generic.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\dictionary_generic\\dictionary_generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024D78E6-D235-4D2A-89D1-4B6D22BF809E}|Dictionary_Generic\\Dictionary_Generic.csproj|solutionrelative:dictionary_generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Dictionary_Generic\\Dictionary_Generic\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary_Generic\\Program.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Dictionary_Generic\\Dictionary_Generic\\Program.cs",
+              "RelativeToolTip": "Dictionary_Generic\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T04:23:35.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
