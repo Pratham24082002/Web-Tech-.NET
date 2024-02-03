@@ -28,7 +28,6 @@ namespace Dynaimic_Arr
             {
                 Console.WriteLine(ele);
             }
-
         }
     }
 }

@@ -12,3 +12,4 @@ C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\De
 C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\Dictionary_Generic.pdb
 C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\Dictionary_Generic.genruntimeconfig.cache
 C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\ref\Dictionary_Generic.dll
+C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\obj\Debug\net8.0\Dictionary_Generic.sourcelink.json
