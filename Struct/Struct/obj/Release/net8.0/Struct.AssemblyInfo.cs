@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Struct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9a5b3da6263035607744358ee74866d19b4a781")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a84164b55df0adfd0871aefbec816e8df48fa005")]
+>>>>>>> b9a5b3da6263035607744358ee74866d19b4a781
 [assembly: System.Reflection.AssemblyProductAttribute("Struct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Struct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
