@@ -1,0 +1,15 @@
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\bin\Debug\net8.0\CustomException.exe
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\bin\Debug\net8.0\CustomException.deps.json
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\bin\Debug\net8.0\CustomException.runtimeconfig.json
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\bin\Debug\net8.0\CustomException.dll
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\bin\Debug\net8.0\CustomException.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\obj\Debug\net8.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfo.cs
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\obj\Debug\net8.0\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\obj\Debug\net8.0\CustomException.sourcelink.json
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\obj\Debug\net8.0\CustomException.dll
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\obj\Debug\net8.0\refint\CustomException.dll
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\obj\Debug\net8.0\CustomException.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\obj\Debug\net8.0\CustomException.genruntimeconfig.cache
+C:\Users\exam\Desktop\09_Atharv_Web\CustomException\CustomException\obj\Debug\net8.0\ref\CustomException.dll

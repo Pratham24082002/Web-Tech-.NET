@@ -1,0 +1,15 @@
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\bin\Debug\net8.0\FILEWRITER.exe
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\bin\Debug\net8.0\FILEWRITER.deps.json
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\bin\Debug\net8.0\FILEWRITER.runtimeconfig.json
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\bin\Debug\net8.0\FILEWRITER.dll
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\bin\Debug\net8.0\FILEWRITER.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\obj\Debug\net8.0\FILEWRITER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\obj\Debug\net8.0\FILEWRITER.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\obj\Debug\net8.0\FILEWRITER.AssemblyInfo.cs
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\obj\Debug\net8.0\FILEWRITER.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\obj\Debug\net8.0\FILEWRITER.sourcelink.json
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\obj\Debug\net8.0\FILEWRITER.dll
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\obj\Debug\net8.0\refint\FILEWRITER.dll
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\obj\Debug\net8.0\FILEWRITER.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\obj\Debug\net8.0\FILEWRITER.genruntimeconfig.cache
+C:\Users\exam\Desktop\09_Atharv_Web\FILEWRITER\FILEWRITER\obj\Debug\net8.0\ref\FILEWRITER.dll

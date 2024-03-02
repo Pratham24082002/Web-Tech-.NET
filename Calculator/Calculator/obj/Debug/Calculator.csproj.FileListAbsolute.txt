@@ -1,0 +1,10 @@
+C:\Users\exam\Desktop\09_Atharv_Web\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\exam\Desktop\09_Atharv_Web\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\exam\Desktop\09_Atharv_Web\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\exam\Desktop\09_Atharv_Web\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\exam\Desktop\09_Atharv_Web\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\exam\Desktop\09_Atharv_Web\Calculator\Calculator\obj\Debug\Calculator.pdb
