@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>./Imgs/discord.png</ImageUrl>
+		<NavigateUrl>http://www.discord.com</NavigateUrl>
+		<AlternateText>
+			Discord
+		</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Discord</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>./Imgs/Prime_logo.png</ImageUrl>
+		<NavigateUrl>http://www.primevideo.com</NavigateUrl>
+		<AlternateText>
+			Prime Video
+		</AlternateText>
+		<Impressions>30</Impressions>
+		<Keyword>Discord</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>./Imgs/Logonetflix.png</ImageUrl>
+		<NavigateUrl>http://www.netflix.com</NavigateUrl>
+		<AlternateText>
+			Netflix
+		</AlternateText>
+		<Impressions>69</Impressions>
+		<Keyword>Netflix</Keyword>
+	</Ad>
+</Advertisements>

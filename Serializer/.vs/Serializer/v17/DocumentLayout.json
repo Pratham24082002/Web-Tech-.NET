@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Serializer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94FD700-492A-41B4-A18E-A0BFF524616E}|Serializer\\Serializer.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\serializer\\serializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94FD700-492A-41B4-A18E-A0BFF524616E}|Serializer\\Serializer.csproj|solutionrelative:serializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94FD700-492A-41B4-A18E-A0BFF524616E}|Serializer\\Serializer.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\serializer\\serializer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94FD700-492A-41B4-A18E-A0BFF524616E}|Serializer\\Serializer.csproj|solutionrelative:serializer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Serializer\\Serializer\\Student.cs",
+              "RelativeDocumentMoniker": "Serializer\\Student.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Serializer\\Serializer\\Student.cs",
+              "RelativeToolTip": "Serializer\\Student.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:41:08.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Serializer\\Serializer\\Program.cs",
+              "RelativeDocumentMoniker": "Serializer\\Program.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\Serializer\\Serializer\\Program.cs",
+              "RelativeToolTip": "Serializer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:40:28.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

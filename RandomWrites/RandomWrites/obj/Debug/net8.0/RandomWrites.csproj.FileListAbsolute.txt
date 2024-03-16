@@ -1,0 +1,15 @@
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\bin\Debug\net8.0\RandomWrites.exe
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\bin\Debug\net8.0\RandomWrites.deps.json
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\bin\Debug\net8.0\RandomWrites.runtimeconfig.json
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\bin\Debug\net8.0\RandomWrites.dll
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\bin\Debug\net8.0\RandomWrites.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\obj\Debug\net8.0\RandomWrites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\obj\Debug\net8.0\RandomWrites.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\obj\Debug\net8.0\RandomWrites.AssemblyInfo.cs
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\obj\Debug\net8.0\RandomWrites.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\obj\Debug\net8.0\RandomWrites.sourcelink.json
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\obj\Debug\net8.0\RandomWrites.dll
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\obj\Debug\net8.0\refint\RandomWrites.dll
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\obj\Debug\net8.0\RandomWrites.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\obj\Debug\net8.0\RandomWrites.genruntimeconfig.cache
+C:\Users\exam\Desktop\09_Atharv_Web\RandomWrites\RandomWrites\obj\Debug\net8.0\ref\RandomWrites.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\RandomWrites\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{495AE34E-DF3B-46EE-86C4-6BC32CE2A032}|RandomWrites\\RandomWrites.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\randomwrites\\randomwrites\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495AE34E-DF3B-46EE-86C4-6BC32CE2A032}|RandomWrites\\RandomWrites.csproj|solutionrelative:randomwrites\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\RandomWrites\\RandomWrites\\Program.cs",
+              "RelativeDocumentMoniker": "RandomWrites\\Program.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\RandomWrites\\RandomWrites\\Program.cs",
+              "RelativeToolTip": "RandomWrites\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:32:18.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\exam\Desktop\09_Atharv_Web\Serializer\Serializer\bin\Debug\Serializer.exe.config
+C:\Users\exam\Desktop\09_Atharv_Web\Serializer\Serializer\bin\Debug\Serializer.exe
+C:\Users\exam\Desktop\09_Atharv_Web\Serializer\Serializer\bin\Debug\Serializer.pdb
+C:\Users\exam\Desktop\09_Atharv_Web\Serializer\Serializer\obj\Debug\Serializer.csproj.AssemblyReference.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Serializer\Serializer\obj\Debug\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\09_Atharv_Web\Serializer\Serializer\obj\Debug\Serializer.exe
+C:\Users\exam\Desktop\09_Atharv_Web\Serializer\Serializer\obj\Debug\Serializer.pdb

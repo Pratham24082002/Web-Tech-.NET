@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F86D9B79-2678-46D2-AF60-391E00F75B19}|WebApplication1\\WebApplication1.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\webapplication1\\webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F86D9B79-2678-46D2-AF60-391E00F75B19}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86D9B79-2678-46D2-AF60-391E00F75B19}|WebApplication1\\WebApplication1.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\webapplication1\\webapplication1\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86D9B79-2678-46D2-AF60-391E00F75B19}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\WebApplication1\\WebApplication1\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\WebApplication1\\WebApplication1\\Home.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Home.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T04:22:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\WebApplication1\\WebApplication1\\Home.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Home.aspx",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\WebApplication1\\WebApplication1\\Home.aspx",
+              "RelativeToolTip": "WebApplication1\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-09T04:09:15.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
