@@ -1,0 +1,10 @@
+﻿<books>
+	<computerbooks>
+		<book title="Secrets of Silicon Valley" author="Sheryl Hunter"/>
+		<book title="Straight Talk About Computers" author="Dean Straight"/>
+		<book title="You Can Combat Computer Stress!" author="Marjorie Green"/>
+	</computerbooks>
+	<cookbooks>
+		<book title="Silicon Valley Gastronomic Treats" author="Innes del Castill"/>
+	</cookbooks>
+</books>
