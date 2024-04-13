@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodOverriding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc8092f2c8e055fa5f49d5ce35fb0ea051b13f82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+288329fc37ca8acdd4cc7620508dc0daf85b05cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodOverriding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodOverriding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
