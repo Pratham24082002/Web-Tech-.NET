@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultilevelInh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e51eacb00542d0b7822cae9eae6ca99f5c2c2d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc8092f2c8e055fa5f49d5ce35fb0ea051b13f82")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultilevelInh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultilevelInh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
