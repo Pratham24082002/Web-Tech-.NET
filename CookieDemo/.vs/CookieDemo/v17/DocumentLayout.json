@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CookieDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40983ADA-9F7A-4A65-8335-219BBB972896}|CookieDemo\\CookieDemo.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\cookiedemo\\cookiedemo\\bookdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{40983ADA-9F7A-4A65-8335-219BBB972896}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\bookdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40983ADA-9F7A-4A65-8335-219BBB972896}|CookieDemo\\CookieDemo.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\cookiedemo\\cookiedemo\\bookdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40983ADA-9F7A-4A65-8335-219BBB972896}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\bookdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40983ADA-9F7A-4A65-8335-219BBB972896}|CookieDemo\\CookieDemo.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\cookiedemo\\cookiedemo\\books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{40983ADA-9F7A-4A65-8335-219BBB972896}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40983ADA-9F7A-4A65-8335-219BBB972896}|CookieDemo\\CookieDemo.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\cookiedemo\\cookiedemo\\books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40983ADA-9F7A-4A65-8335-219BBB972896}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 355,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CookieDemo\\CookieDemo\\BookDetails.aspx.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\BookDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CookieDemo\\CookieDemo\\BookDetails.aspx.cs",
+              "RelativeToolTip": "CookieDemo\\BookDetails.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:46:05.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CookieDemo\\CookieDemo\\BookDetails.aspx",
+              "RelativeDocumentMoniker": "CookieDemo\\BookDetails.aspx",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CookieDemo\\CookieDemo\\BookDetails.aspx",
+              "RelativeToolTip": "CookieDemo\\BookDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-13T05:44:58.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Books.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CookieDemo\\CookieDemo\\Books.aspx.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Books.aspx.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CookieDemo\\CookieDemo\\Books.aspx.cs",
+              "RelativeToolTip": "CookieDemo\\Books.aspx.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:21:46.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Books.aspx",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CookieDemo\\CookieDemo\\Books.aspx",
+              "RelativeDocumentMoniker": "CookieDemo\\Books.aspx",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CookieDemo\\CookieDemo\\Books.aspx",
+              "RelativeToolTip": "CookieDemo\\Books.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-13T05:13:37.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
