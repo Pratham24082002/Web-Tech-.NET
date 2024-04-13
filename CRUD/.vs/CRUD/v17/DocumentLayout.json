@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9F37EB-C98F-4EE6-BF3C-51CD67082B64}|CRUD\\CRUD.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\crud\\crud\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9F37EB-C98F-4EE6-BF3C-51CD67082B64}|CRUD\\CRUD.csproj|solutionrelative:crud\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exam\\AppData\\Local\\Temp\\q5kw0rvn..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9F37EB-C98F-4EE6-BF3C-51CD67082B64}|CRUD\\CRUD.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\crud\\crud\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF9F37EB-C98F-4EE6-BF3C-51CD67082B64}|CRUD\\CRUD.csproj|solutionrelative:crud\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9F37EB-C98F-4EE6-BF3C-51CD67082B64}|CRUD\\CRUD.csproj|c:\\users\\exam\\desktop\\09_atharv_web\\crud\\crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AF9F37EB-C98F-4EE6-BF3C-51CD67082B64}|CRUD\\CRUD.csproj|solutionrelative:crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exam\\AppData\\Local\\Temp\\q5kw0rvn..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exam\\AppData\\Local\\Temp\\q5kw0rvn..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\exam\\AppData\\Local\\Temp\\q5kw0rvn..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\q5kw0rvn..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-06T04:42:50.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CRUD\\CRUD\\Web.config",
+              "RelativeDocumentMoniker": "CRUD\\Web.config",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CRUD\\CRUD\\Web.config",
+              "RelativeToolTip": "CRUD\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-06T04:32:59.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CRUD\\CRUD\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "CRUD\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CRUD\\CRUD\\Default.aspx.cs",
+              "RelativeToolTip": "CRUD\\Default.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:31:48.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CRUD\\CRUD\\Default.aspx",
+              "RelativeDocumentMoniker": "CRUD\\Default.aspx",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\09_Atharv_Web\\CRUD\\CRUD\\Default.aspx",
+              "RelativeToolTip": "CRUD\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-06T03:54:50.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
