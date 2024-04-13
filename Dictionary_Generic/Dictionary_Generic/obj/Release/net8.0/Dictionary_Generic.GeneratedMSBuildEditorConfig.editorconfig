@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dictionary_Generic
-build_property.ProjectDir = C:\Users\exam\Desktop\09_Atharv_Web\Dictionary_Generic\Dictionary_Generic\
+build_property.ProjectDir = C:\Users\exam\source\repos\Web-Tech-.NET\Dictionary_Generic\Dictionary_Generic\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Exception_Handling
-build_property.ProjectDir = C:\Users\exam\Desktop\09_Atharv_Web\Exception_Handling\Exception_Handling\
+build_property.ProjectDir = C:\Users\exam\source\repos\Web-Tech-.NET\Exception_Handling\Exception_Handling\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

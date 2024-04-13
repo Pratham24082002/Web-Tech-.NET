@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Basic_OOPS
-build_property.ProjectDir = C:\Users\exam\Desktop\09_Atharv_Web\Basic_OOPS\Basic_OOPS\
+build_property.ProjectDir = C:\Users\exam\source\repos\Web-Tech-.NET\Basic_OOPS\Basic_OOPS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
